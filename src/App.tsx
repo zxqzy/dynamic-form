@@ -1,7 +1,7 @@
-import classes from './App.module.css'
+import Layout from "./Layout"
 
 function App() {
-  return <div className={classes.container}>动态表单</div>
+  return <Layout />
 }
 
 export default App
