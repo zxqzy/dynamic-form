@@ -1,0 +1,21 @@
+.layoutOuter {
+    height: 100vh;
+    overflow: hidden;
+}
+
+.header {
+    height: 56px;
+    background-color: white;
+    box-shadow: 1px 0 6px 3px rgba(48,65,86,.35);
+    z-index: 100;
+}
+
+.leftSider {
+    background-color: white;
+    box-shadow: 1px 0 6px 3px rgba(48,65,86,.35000000000000003);
+}
+
+.rightSider {
+    background-color: white;
+    box-shadow: -3px 0 6px rgba(48,65,86,.35000000000000003);
+}

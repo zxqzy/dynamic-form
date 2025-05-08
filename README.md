@@ -1,5 +1,5 @@
 # 技术栈
-React + TypeScript + Vite
+React + TypeScript + Vite + Ant Design
 
 ## css 方案
 css modules
